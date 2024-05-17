@@ -4,9 +4,9 @@ GET {{Samples.ContentNegotion_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
-GET {{Samples.ContentNegotion_HostAddress}}/product/
+GET {{Samples.ContentNegotion_HostAddress}}/products/
 Accept: application/xml
 
 ###
-GET {{Samples.ContentNegotion_HostAddress}}/product/
+GET {{Samples.ContentNegotion_HostAddress}}/products/
 Accept: application/xml
